@@ -1,6 +1,10 @@
 # 15-Puzzle Flutter
 
-Rompecabezas deslizante hecho en Flutter
+Micro proyecto de Sistemas de Informacion de la UNIMET
+
+Hecho por:
+Giancarlo Paolino CI: 31.464.995
+Gabriel Cedeño CI: 29.724.329
 
 ## Funciones
 
